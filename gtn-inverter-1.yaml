@@ -1,7 +1,7 @@
 substitutions:
   name: "gtn-inverter-1"
   device_description: "Monitor and control GTN Inverter via RS485 (Modbus)"
-  external_components_source: github://syssi/esphome-soyosource-gtn-virtual-meter@main
+  external_components_source: github://Helge44/esphome-dlms-gtn@main
   tx_pin: GPIO16
   rx_pin: GPIO17
 
